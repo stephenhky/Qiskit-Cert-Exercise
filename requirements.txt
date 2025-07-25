@@ -3,3 +3,5 @@ qiskit-ibm-runtime
 sympy
 matplotlib
 seaborn
+pylatexenc
+qiskit-aer
